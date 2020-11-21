@@ -1,0 +1,10 @@
+  
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    background: #405D7B url(../images/header-bg.jpg) 0 0 repeat-x;
+  }
+  
