@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is (╯°□°）╯︵ ┻━┻. It includes conventions for
+Markdown is ┬─┬ノ( ◕◡◕ ノ). It includes conventions for
 
 ```markdown
 Syntax highlighted code block
